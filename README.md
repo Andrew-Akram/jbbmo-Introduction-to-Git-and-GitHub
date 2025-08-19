@@ -1,5 +1,5 @@
 # Introduction to Git and GitHub
-
+I am Andrew Akram, and this is my GitHub final project
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
@@ -12,5 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-I am Andrew Akram, and this is my GitHub final project
+
 _© 2022 XYZ, Inc._
